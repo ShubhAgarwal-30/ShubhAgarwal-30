@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shubh-Agarwal69
+- 👋 Hi, I’m Shubh
 - 👀 I’m interested in Web  Developing and Devops.
 - 🌱 I’m currently learning Web developing ,DSA and Devops. 
 - 💞️ I’m looking to collaborate on Projects in open source and new inovations.
