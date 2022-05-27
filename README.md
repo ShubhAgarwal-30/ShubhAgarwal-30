@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Data Structure and Algorithms , Linux and Devops
 - 👯 I’m looking to collaborate with Open Source Projects.
-- 🥅 2022 Goals: Learn more about Devops and Data Structure and Algorithms
+- 🥅 2022 Goals: Learn more about Devops and DSA
 - ⚡ Fun fact: I love to play Football
 <!-- - 😻  -->
 <!-- ### Connect with me:
