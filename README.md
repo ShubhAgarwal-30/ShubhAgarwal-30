@@ -44,3 +44,4 @@
 <!-- <img align="left" alt="Shubh Agarwal's Github Stats" src="https:// github-readme-stats.vercel.app/api?username=&Shubh-Agarwal69ɛtshow_icons=trueɛthide_border=true" /> -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubh-Agarwal69)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubh-Agarwal69&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubh-Agarwal69&show_icons=true)
