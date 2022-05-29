@@ -43,4 +43,4 @@
 <br />
 <!-- <img align="left" alt="Shubh Agarwal's Github Stats" src="https:// github-readme-stats.vercel.app/api?username=&Shubh-Agarwal69ɛtshow_icons=trueɛthide_border=true" /> -->
 
-[![Shubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubh-Agaarwal69)](https://github.com/anuraghazra/github-readme-stats)
+[![Shubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubh-Agaarwal69)](https://github.com/Shubh-Agarwal69/github-readme-stats)
