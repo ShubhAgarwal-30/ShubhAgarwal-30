@@ -3,6 +3,8 @@
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/Shubh__30?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Shubh__30)
+[![Linkedin Follow](https://img.shields.io/linkedin/follow/shubhagarwal30?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shubhagarwal30)
+
 
 
 
@@ -11,12 +13,12 @@
 - 🌱 I’m currently learning Linux and Devops
 - 👯 I’m looking to collaborate with Open Source Projects.
 - 🥅 2024 Goals: Learn more about Devops
-- ⚡ Fun fact: I love to play Football
+- ⚡ Fun fact: Nothing Special
 <!-- - 😻  -->
+
+<!-- ### Connect with me:
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-<!-- ### Connect with me:
-
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
