@@ -32,14 +32,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="amazonwebservices" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="jenkins" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Ansible" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="terraform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
+[<img align="left" alt="amazonwebservices" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="jenkins" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="kubernetes" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Ansible" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="terraform" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 <br/>
 <br/>
 ![Shubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubh-Agarwal69&show_icons=true&theme=dark)
