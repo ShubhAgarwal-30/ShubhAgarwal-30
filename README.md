@@ -8,9 +8,9 @@
 
 ## I'm a Persistent Learner and Open Source Enthusiast !!
 
-- 🌱 I’m currently learning Data Structure and Algorithms , Linux and Devops
+- 🌱 I’m currently learning Linux and Devops
 - 👯 I’m looking to collaborate with Open Source Projects.
-- 🥅 2022 Goals: Learn more about Devops and DSA
+- 🥅 2024 Goals: Learn more about Devops
 - ⚡ Fun fact: I love to play Football
 <!-- - 😻  -->
 <!-- ### Connect with me:
