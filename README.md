@@ -1,5 +1,9 @@
 # 💫 About Me:
-# Hi there, I'm Shubh Agarwal 👋 <br>## I'm a Persistent Learner and Open Source Enthusiast !!<br><br>- 🌱 I’m currently learning Linux and Devops<br>- 👯 I’m looking to collaborate with Open Source Projects.<br>- 🥅 2024 Goals: Learn more about Devops<br>- ⚡ Fun fact: Nothing Special
+# Hi there, I'm Shubh Agarwal 👋 <br>## I'm a Persistent Learner and Open Source Enthusiast !!<br><br>
+- 🌱 I’m currently learning Linux and Devops<br>
+- 👯 I’m looking to collaborate with Open Source Projects.<br>
+- 🥅 2024 Goals: Learn more about Devops<br>
+- ⚡ Fun fact: Nothing Special
 
 
 ## 🌐 Socials:
