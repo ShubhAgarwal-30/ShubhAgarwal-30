@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi there, I'm Shubh Agarwal 👋 <br>
-# I'm a DevOps Enthusiast !!<br><br>
+# I'm a DevOps Wizard !!<br><br>
 - 🌱 I’m currently learning Linux and Devops<br>
 - 👯 I’m looking to collaborate with Open Source Projects.<br>
 - 🥅 2024 Goals: Learn more about Devops<br>
